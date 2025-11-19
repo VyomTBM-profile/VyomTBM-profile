@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **Some basic C# projects**
 
-- 🏢 I'm the owner of [**Aspxone**](https://bio.site/aspxone) and [**TBMsoft**](https://bio.site/tbmsoft)
+- 🏢 I'm the owner of [**Aspxone**](https://bio.site/aspxone) and [**FrontenTBM**](https://bio.site/frontentbm)
   
 - 🌱 I'm currently learning **C#**
 
